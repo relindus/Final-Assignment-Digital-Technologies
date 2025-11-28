@@ -22,22 +22,23 @@
         </section>
 
         <div class="button-container">
-            <button onclick="loadMarkdown('assignment1.md', 'content');">
+            <button onclick="loadMarkdown('assignment1.md', 'content');makeBackgroundWhite()">
                 Assignment 1
             </button>
 
-            <button onclick="loadMarkdown('myWebsite.md', 'content');">
-                My Website</button>
-                <button onclick="loadMarkdown('GetDog.md', 'content'); GetDog();">
+            <button onclick="loadMarkdown('myWebsite.md', 'content');makeBackgroundWhite">
+                My Website
+            </button>
+
+            <button onclick="loadMarkdown('GetDog.md', 'content'); GetDog();">
                     Dog Picture
-                </button>
+            </button>
 
         </div>
 
         <div id="content"></div>
 
     </main>
-    </body>
     <script>
        async function loadMarkdown (filename, componentId) {
             const response = await fetch (filename);
@@ -57,5 +58,5 @@
             document.getElementById("dog-picture").src = data.message
         }
     </script>
-    
+    </body>
 </html>
