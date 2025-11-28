@@ -28,7 +28,7 @@
 
             <button onclick="loadMarkdown('myWebsite.md', 'content');">
                 My Website</button>
-                <button onclick="loadMarkdown('GetDog.md', 'content') GetDog();">
+                <button onclick="loadMarkdown('GetDog.md', 'content'); GetDog();">
                     Dog Picture
                 </button>
 
@@ -37,8 +37,9 @@
         <div id="content"></div>
 
     </main>
+    </body>
     <script>
-        async function loadMarkdown (filename, componentId) {
+       async function loadMarkdown (filename, componentId) {
             const response = await fetch (filename);
             const text = await response.text();
             document.getElementById(componentId).innerHTML = marked.parse(text);
@@ -53,8 +54,8 @@
         async function GetDog () {
             const response =await fetch ('https://dog.ceo/api/breeds/image/random');
             const data=await response.json();
-            document.getElementById("dog-picture") src=date.message
+            document.getElementById("dog-picture").src = data.message
         }
     </script>
-</body>
+    
 </html>
