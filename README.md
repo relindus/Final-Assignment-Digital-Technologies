@@ -1,2 +1,2 @@
-# Final Assignment Digital Tehcnologies
-Final hand in for Digital Tehcnologies in the Humanitites class
+# Final Assignment Digital Technologies
+Final hand in for Digital Technologies in the Humanitites class
