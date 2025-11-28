@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
     <title> Linda's Website</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header> 
@@ -18,6 +17,12 @@
         <section>
             <img id="Voyant" src="voyant picture.jpg" alt="Voyant Picture">
         </section>
+
+        <div class="button-container">
+            <button onclick="loadMarkdown('assignment1.md', 'content'); makeBackgroundWhite();">
+                Assignment 1
+            </button>
+        </div>
     </main>
     <script>
         async function loadMarkdown (filename, componentId) {
