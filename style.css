@@ -1,6 +1,7 @@
 
 header{
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h3{text-align:left;
 }
@@ -9,6 +10,9 @@ body{
     text-align:justify;
 }
 .button-container{
-    position:relative
-    text-align:absolute
+    justify-content: center;
+    gap: 50px;
+    margin-top: 35px
+
 }
+button
