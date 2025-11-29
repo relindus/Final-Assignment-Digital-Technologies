@@ -12,18 +12,25 @@ h2{
     font-size: medium;
 
 }
+#content{
+text-align: :left
+margin: 20px 0
+max-width:800px}
+
 main{
   text-align: center
 }
-p{ margin: 150px
-
+p {
+    margin: 10px 0;
+    line-height: 1.6;
 }
 div{
+    text-indent: 2px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    line-height: 60px;
+    
     }
 
-button {
+.button-container {
         padding: 40px 50px;
         font-size: 50px;
         background-color: rgb(225, 223, 137);
