@@ -2,8 +2,9 @@
 # Assignment 1
 
 ## Introduction
-
+<p align="justify">
 In today’s globalised world, technology permeates nearly every aspect of daily life — from waking up to the sound of a digital alarm to checking a smartphone before going to sleep. It is striking to think about the time when digital technologies were not present to the extent that they are now in higher education. When I started my academic career in the humanities in 2019, no one talked about artificial intelligence, let alone the usage of ChatGPT, since it did not exist yet. Students were expected to borrow the materials from the library or buy the books that were included in the syllabus. Bringing a personal computer to university was rarely necessary at that time. The only online library database I used was JSTOR, which now seems only a “last resort” page I look at in case I cannot find a text. The first year at university was when students learned how to write a proper academic text with proper citation on a computer. The students were still expected to print out their papers or having to make notes from a three-hundred-page book to be eligible to take an exam. In addition, exams were all in person and had to be done on paper. To think that only six years ago, that was the reality of Hungarian higher education and what the reality is now is unusual, but I would also not be able to imagine taking notes in notebooks and going to the library in person just to access material included in the syllabus now. 
+</p>
 
 ## Current digital technologies in Intercultural Studies and English
 
