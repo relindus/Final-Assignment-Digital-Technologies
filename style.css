@@ -1,4 +1,8 @@
-
+body{
+    text-align:justify;
+    margin:40px
+    
+}
 header{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -8,14 +12,12 @@ h3{text-align:left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-body{
-    text-align:justify;
-}
+
 
 main{
   text-align: center
 }
-p{ margin: 140px
+p{ margin: 100px
 }
 
 button {
