@@ -1,7 +1,7 @@
 header{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding:2px;
+    
 }
 
 h3{text-align:left;
@@ -20,9 +20,7 @@ p{ margin: 150px
 }
 div{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    line-height: 15px;
-    margin-top: 2px;
-    margin-bottom: 3px;
+    line-height: 60px;
     }
 
 button {
