@@ -38,7 +38,6 @@
 
         <div id="content"></div>
         <img id="dog-picture" src="" alt="">
-        <div id="dog-picture"></div>
 
     </main>
     <script>
@@ -46,8 +45,7 @@
             const response = await fetch (filename);
             const text = await response.text();
             document.getElementById(componentId).innerHTML = marked.parse(text);
-            
-            
+            document.getElementById("dog-picture").src = "";
         }
         
         async function GetDog(){
