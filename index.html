@@ -38,7 +38,7 @@
 
         <div id="content"></div>
         <img id="dog-picture" src="" alt="">
-        
+        <div id="dog-picture"></div>
 
     </main>
     <script>
@@ -54,8 +54,7 @@
             const response =await fetch ('https://dog.ceo/api/breeds/image/random');
             const data=await response.json();
             document.getElementById("dog-picture").src=data.message
-            
-
+            document.getElementById("content").innerHTML = "";
         } 
 
         async function getAdvice(){
