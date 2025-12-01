@@ -17,7 +17,7 @@ h2{
 
 }
 #content{
-
+    text-align: center;
     margin: 20px 0;
     max-width: 800px;
    }
@@ -32,7 +32,6 @@ p {
     margin-left: 100px;
     margin-right: 100px;
     line-height: 1.6;
-    text-align: center;
 }
 div{
     

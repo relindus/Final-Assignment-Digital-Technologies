@@ -37,7 +37,7 @@ In addition as a student, it is vital to be aware of the platforms provided thro
 In conclusion, digital technologies have become very important in academic life in the humanities as well. Their integration has reshaped how research is conducted, and how knowledge is shared. The accessibility of online databases, transcription tools, and communication platforms has made research faster and more collaborative, offering unprecedented opportunities for intercultural exchange and digital literacy. At the same time, this dependence on technology introduces challenges, such as the risk of superficial engagement with sources, unequal access to digital tools, and an overreliance on artificial intelligence. Therefore, while digitalisation has brought immense efficiency and inclusivity to the humanities, it is essential for scholars to maintain a critical approach — one that balances technological convenience with the reflective, analytical depth that defines the field. Ultimately, technology should be seen not as a replacement for traditional academic practices but as a complementary tool that, when used thoughtfully, can enhance and expand the possibilities of humanistic inquiry.
 </p>
 
-### References:
+## References:
 <p align="justify">
 Schmitt, N., & Rodgers, M. P. H. (2020). An introduction to applied linguistics (3rd ed). Routledge.<br>
 Sinclear, S., & Rockwell, G. (2016). Voyant Tools. https://voyant-tools.org/<br>
