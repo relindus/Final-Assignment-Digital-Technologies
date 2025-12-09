@@ -1,4 +1,4 @@
-# Linda Reményi
+
 # Assignment 1
 
 ## Introduction
