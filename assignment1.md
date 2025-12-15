@@ -42,7 +42,7 @@ In conclusion, digital technologies have become very important in academic life 
 Schmitt, N., & Rodgers, M. P. H. (2020). An introduction to applied linguistics (3rd ed). Routledge.<br>
 Sinclear, S., & Rockwell, G. (2016). Voyant Tools. https://voyant-tools.org/<br>
 Martindale, T., B. Amankwatia, T., Cifuentes, L., & A. Piña, A. (2024). Handbook of Research in Online Learning: Insights and Advances. BRILL. https://doi.org/10.1163/9789004702813 <br>
-JSTOR Home. (n.d.). Retrieved 12 December 2025, from https://www.jstor.org/
+JSTOR Home. (n.d.). Retrieved 12 December 2025, from https://www.jstor.org/<br>
 Klamra, C., Kryńska, K., & Ogrodniczuk, M. (2023). Evaluating the Use of Generative LLMs for
 Intralingual Diachronic Translation of Middle-Polish Texts into Contemporary Polish. In D. H. Goh, S.
 J. Chen, & S. Tuarob (Eds), Leveraging Generative Intelligence in Digital Libraries: Towards Human
