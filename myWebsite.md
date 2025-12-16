@@ -7,13 +7,11 @@ The idea behind the design of the website was mostly driven by the list of featu
 ## The Website Design 
 
 <p align="justify">
-The website is structured with a header at the top welcoming the “viewers”. Below the header, a short motivational element (“Advice of the day”) on the top left, and the main section in the middle contains interactive buttons that allow users to load different contents: “Assignment 1”, “My Website”, or “Dog Picture”. There is also a footer at the bottom left of the page.  The content area displays markdown files (“Assignment 1” or “My Website”) or images(“Dog Picture”), depending on the user’s choice. The usage of the website is quite straightforward, as it does not contain many features.<br>
-The font family chosen is Lucida Sans.  There is no special reason for the choice; it is readable and different from the standard Times New Roman format.  In “Assignment 1” as well as “Advice of the day” and the name of the creator of the website, the headings (h2, h3) are left‑aligned with margins to create a look that resembles the “standard” document formatting, while paragraphs are positioned in the middle for a clearer view.
+The website is structured with a header at the top welcoming the “viewers”. Below the header, a short motivational element (“Advice of the day”) on the top left, and the main section in the middle contains interactive buttons that allow users to load different contents: “Assignment 1”, “My Website”, or “Dog Picture”. There is also a footer at the bottom left of the page. content area displays markdown files (“Assignment 1” or “My Website”) or images(“Dog Picture”), depending on the user’s choice. The usage of the website is quite straightforward, as it does not contain many features.<br>
+The font family chosen is Lucida Sans.  There is no special reason for the choice; it is readable and different from the standard Times New Roman format.  In “Assignment 1” , “Advice of the day”, "My Website"  and the name of the creator of the website, the headings (h2, h3) are left‑aligned with margins to create a look that resembles the “standard” document formatting, while paragraphs are positioned in the middle for a clearer view.The colour scheme uses a warm yellow colour for the header’s background and the buttons. Using black letters for contrast. The buttons are styled with padding and rounded corners, for a visually better look than the default buttons that are created in HTML.
 </p>
 <br>
-
 <p align="justify">
-The colour scheme uses a warm yellow colour for the header’s background and the buttons. Using black letters for contrast. The buttons are styled with padding and rounded corners, for a visually better look than the simple buttons that are created in HTML.
 The picture was the first task on the list of requirements. Originally, it was under the header, but then it became part of the markdown because it is part of an example for "Assignment 1"; therefore, it made more sense to include it there. While the “Dog Picture” API (Dog CEO, n.d.)contains a picture too (a different one every time the user clicks on the button), with the integration of the API, the picture was included, thus it does not count as a single picture to be integrated.</p> 
 <br>
 
@@ -34,7 +32,7 @@ The website also needed a unique colour and styling; this part was executed with
 
 <p align="justify">
 The buttons were also a requirement. There are three buttons, all leading to different content already mentioned before. They are centred in the middle on the top of the page, so the user can see that those are the main contents of the website.
-It also had to be deployed to GitHub(Build Software Better, Together, n.d.), which is the reason this website is running at the moment, and “viewers” can see the result of the coding.
+The website  had to be deployed to GitHub(Build Software Better, Together, n.d.), which is the reason this website is running at the moment, and “viewers” can see the result of the coding.
 </p>
 <br>
 
@@ -42,7 +40,7 @@ It also had to be deployed to GitHub(Build Software Better, Together, n.d.), whi
 
 
 <p align="justify">
-Additional features could have been added as well. However, since I had no prior experience with website design or coding before taking the Digital Technologies in the Humanities course (apart from copy-pasting a music-player code for the Tumblr social media platform (Tumblr, n.d.) in 2016), I decided not to make further changes. This helped avoid accidentally breaking any features that were already working.
+Additional features could have been part of the website. However, since I had no prior experience with website design or coding before taking the Digital Technologies in the Humanities course (apart from copy-pasting a music-player code for the Tumblr social media platform (Tumblr, n.d.) in 2016), I decided not to make further changes. This helped avoid accidentally breaking any features that were already working.
 The process of creating this website has been quite challenging in terms of meeting all the requirements and understanding how even the smallest typo or missing “>” sign can cause the code to not work, and due to the size of these mistakes, not finding them, hence not understanding why the code does not work, caused many frustrating moments. However, for the result and being able to confidently say that I can create a very basic website, it was all worth it.<br>
 </p>
 
