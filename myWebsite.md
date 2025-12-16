@@ -45,7 +45,7 @@ The process of creating this website has been quite challenging in terms of meet
 </p>
 
 
-### References:
+## References:
 <p align="justify">
 Advice Slip. (n.d.). Retrieved 9 December 2025, from https://api.adviceslip.com/advice <br>
 Bored API Documentation. (n.d.). Retrieved 9 December 2025, from https://bored-api.appbrewery.com/ <br>
