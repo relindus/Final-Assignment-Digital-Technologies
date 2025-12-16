@@ -7,8 +7,8 @@ The idea behind the design of the website was mostly driven by the list of featu
 ## The Website Design 
 
 <p align="justify">
-The website is structured with a header at the top welcoming the “viewers”. Below the header, a short motivational element (“Advice of the day”) on the top left, and the main section in the middle contains interactive buttons that allow users to load different contents: “Assignment 1”, “My Website”, or “Dog Picture”. There is also a footer at the bottom left of the page. content area displays markdown files (“Assignment 1” or “My Website”) or images(“Dog Picture”), depending on the user’s choice. The usage of the website is quite straightforward, as it does not contain many features.<br>
-The font family chosen is Lucida Sans.  There is no special reason for the choice; it is readable and different from the standard Times New Roman format.  In “Assignment 1” , “Advice of the day”, "My Website"  and the name of the creator of the website, the headings (h2, h3) are left‑aligned with margins to create a look that resembles the “standard” document formatting, while paragraphs are positioned in the middle for a clearer view.The colour scheme uses a warm yellow colour for the header’s background and the buttons. Using black letters for contrast. The buttons are styled with padding and rounded corners, for a visually better look than the default buttons that are created in HTML.
+The website is structured with a header at the top welcoming the users. Below the header, a short motivational element (“Advice of the day”) on the top left, and the main section in the middle contains interactive buttons that allow users to load different contents: “Assignment 1”, “My Website”, or “Dog Picture”. There is also a footer at the bottom left of the page. The content area displays markdown files (“Assignment 1” or “My Website”) or images(“Dog Picture”), depending on the user’s choice. The usage of the website is quite straightforward, as it does not contain many features.<br>
+The font family chosen is Lucida Sans.  There is no special reason for the choice; it is readable and different from the standard Times New Roman format.  In “Assignment 1” as well as  “Advice of the day” and "My Website"  the headings (h2, h3) are left‑aligned with margins to create a look that resembles the “standard” document formatting, while paragraphs are positioned in the middle for a clearer view.The colour scheme uses a warm yellow colour for the header’s background and the buttons. Using black letters for contrast. The buttons are styled with padding and rounded corners, for a visually better look than the default buttons that are created in HTML.
 </p>
 <br>
 <p align="justify">
@@ -21,18 +21,18 @@ The following task on the list was the API to integrate. First, the idea was for
 <br>
 
 <p align="justify">
-The second API integrated was the one that the user can see when they click on the “Dog Picture” button(Dog CEO, n.d.). A picture of a dog will show up randomly every time the button is activated, and when the other buttons are clicked on, it disappears. The latter was rather hard to find a solution to, because during the coding process, the dog picture stayed even after clicking on the other buttons, but after many attempts at changing the code and suggestions from the teaching assistant, the peers and as a last resort, artificial intelligence, the problem was solved. Downloading Live Server to the suggestion of the teaching assistant also helped, because it made it easier to see what happens on the actual website once something is changed in the code.
+The second API integrated was the one that the user can see when they click on the “Dog Picture” button(Dog CEO, n.d.). A picture of a dog will show up randomly every time the button is activated, and when the other buttons are clicked on, it disappears. The latter was rather hard to find a solution to, because during the coding process, the dog picture stayed even after clicking on the other buttons, but after many attempts at changing the code and suggestions from the teaching assistant, the peers and as a last resort, artificial intelligence, the problem was solved. Downloading the Live Server extension of Visual Studio Code (Ritwick Dey, n.d.) to the suggestion of the teaching assistant also helped, because it made it easier to see what happens on the actual website once something is changed in the code.
 </p>
 <br>
 
 <p align="justify">
-The website also needed a unique colour and styling; this part was executed with CSS. Changing the default positions of the headers and subtitles, giving the buttons colour, and highlighting the “Welcome to my Website!” title with the same warm yellow colour as the buttons.  The footer was left in the default position, because it fits there right.
+The website also needed a unique colour and styling; this part was executed with CSS. Changing the default positions of the headers, subtitles, and paragraphs, giving the buttons colour, and highlighting the “Welcome to my Website!” title with the same warm yellow colour as the buttons.  The footer was left in the default position, because it fits there right.
 </p>
 <br>
 
 <p align="justify">
 The buttons were also a requirement. There are three buttons, all leading to different content already mentioned before. They are centred in the middle on the top of the page, so the user can see that those are the main contents of the website.
-The website  had to be deployed to GitHub(Build Software Better, Together, n.d.), which is the reason this website is running at the moment, and “viewers” can see the result of the coding.
+The website  had to be deployed to GitHub (GitHub, n.d.), which is the reason this website is running at the moment, and the users can see the result of the coding.
 </p>
 <br>
 
@@ -40,7 +40,7 @@ The website  had to be deployed to GitHub(Build Software Better, Together, n.d.)
 
 
 <p align="justify">
-Additional features could have been part of the website. However, since I had no prior experience with website design or coding before taking the Digital Technologies in the Humanities course (apart from copy-pasting a music-player code for the Tumblr social media platform (Tumblr, n.d.) in 2016), I decided not to make further changes. This helped avoid accidentally breaking any features that were already working.
+Additional features could have been part of the website. However, since I had no prior experience with website design or coding before taking the Digital Technologies in the Humanities course, apart from copying  a music-player code for the Tumblr social media platform (Tumblr, n.d.) in 2016, I decided not to make further changes. This helped avoid accidentally breaking any features that were already working.
 The process of creating this website has been quite challenging in terms of meeting all the requirements and understanding how even the smallest typo or missing “>” sign can cause the code to not work, and due to the size of these mistakes, not finding them, hence not understanding why the code does not work, caused many frustrating moments. However, for the result and being able to confidently say that I can create a very basic website, it was all worth it.<br>
 </p>
 
@@ -49,8 +49,9 @@ The process of creating this website has been quite challenging in terms of meet
 <p align="justify">
 Advice Slip. (n.d.). Retrieved 9 December 2025, from https://api.adviceslip.com/advice <br>
 Bored API Documentation. (n.d.). Retrieved 9 December 2025, from https://bored-api.appbrewery.com/ <br>
-Build software better, together. (n.d.). GitHub. Retrieved 12 December 2025, from https://github.com <br>
+Dey, R. (n.d.). Live Server (Version 5.6.1) [Visual Studio Code extension]. Visual Studio Marketplace. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer <br>
 Dog CEO. (n.d.). Retrieved 9 December 2025, from https://dog.ceo/api/breeds/image/random <br>
-Tumblr. (n.d.). Retrieved 12 December 2025, from https://www.tumblr.com/ <br>
+GitHub. (n.d.). GitHub., from https://github.com <br>
+Tumblr. (n.d.). Tumblr, from https://www.tumblr.com/ <br>
 </p>
 
