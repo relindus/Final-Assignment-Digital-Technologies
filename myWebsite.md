@@ -1,4 +1,4 @@
-# My Website
+# The Website Design
 ## The Idea
 <p align="justify">
 The idea behind the design of the website was mostly driven by the list of features that were given to be implemented on it. For this reason, it is meant to be simple and interactive, with a minimalist style and a clear view of what the website has to offer. Which is the following: daily advice on the top left of the page, an assignment, the idea behind the website design and a random dog picture. </p>
@@ -7,12 +7,12 @@ The idea behind the design of the website was mostly driven by the list of featu
 ## The Website Design 
 
 <p align="justify">
-The website is structured with a header at the top welcoming the users. Below the header, a short motivational element (“Advice of the day”) on the top left, and the main section in the middle contains interactive buttons that allow users to load different contents: “Assignment 1”, “My Website”, or “Dog Picture”. There is also a footer at the bottom left of the page. The content area displays markdown files (“Assignment 1” or “My Website”) or images(“Dog Picture”), depending on the user’s choice. The usage of the website is quite straightforward, as it does not contain many features.<br>
-The font family chosen is Lucida Sans.  There is no special reason for the choice; it is readable and different from the standard Times New Roman format.  In “Assignment 1” as well as  “Advice of the day” and "My Website"  the headings (h2, h3) are left‑aligned with margins to create a look that resembles the “standard” document formatting, while paragraphs are positioned in the middle for a clearer view.The colour scheme uses a warm yellow colour for the header’s background and the buttons. Using black letters for contrast. The buttons are styled with padding and rounded corners, for a visually better look than the default buttons that are created in HTML.
+The website is structured with a header at the top welcoming the users. Below the header, a short motivational element (“Advice of the day”) on the top left, and the main section in the middle contains interactive buttons that allow users to load different contents: “Current Digital Technologies in ICS”, “About the Website”, or “Dog Picture”. There is also a footer at the bottom left of the page. The content area displays markdown files (“Current Digital Technologies in ICS” or “About the Website”) or images(“Dog Picture”), depending on the user’s choice. The usage of the website is quite straightforward, as it does not contain many features.<br>
+The font family chosen is Lucida Sans.  There is no special reason for the choice; it is readable and different from the standard Times New Roman format.  In “Assignment 1” as well as  “Advice of the day” and "About the Website"  the headings (h2, h3) are left‑aligned with margins to create a look that resembles the “standard” document formatting, while paragraphs are positioned in the middle for a clearer view.The colour scheme uses a warm yellow colour for the header’s background and the buttons. Using black letters for contrast. The buttons are styled with padding and rounded corners, for a visually better look than the default buttons that are created in HTML.
 </p>
 <br>
 <p align="justify">
-The picture was the first task on the list of requirements. Originally, it was under the header, but then it became part of the markdown because it is part of an example for "Assignment 1"; therefore, it made more sense to include it there. While the “Dog Picture” API (Dog CEO, n.d.)contains a picture too (a different one every time the user clicks on the button), with the integration of the API, the picture was included, thus it does not count as a single picture to be integrated.</p> 
+The picture was the first task on the list of requirements. Originally, it was under the header, but then it became part of the markdown because it is part of an example for "Current Digital Technologies in ICS"; therefore, it made more sense to include it there. While the “Dog Picture” API (Dog CEO, n.d.)contains a picture too (a different one every time the user clicks on the button), with the integration of the API, the picture was included, thus it does not count as a single picture to be integrated.</p> 
 <br>
 
 <p align="justify">

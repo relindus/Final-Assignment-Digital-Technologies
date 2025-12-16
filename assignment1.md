@@ -1,5 +1,5 @@
 
-# Assignment 1
+# Current Digital Technologies in Intercultural Studies
 
 ## Introduction
 <p align="justify">
