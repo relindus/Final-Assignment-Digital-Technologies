@@ -16,7 +16,7 @@ The picture was the first task on the list of requirements. Originally, it was u
 <br>
 
 <p align="justify">
-The following task on the list was the API to integrate. First, the idea was for the website to use the “Get a Random Activity” API(Bored API Documentation, n.d.) but no matter how many times the code was changed, refreshed and recommitted, it did not appear on the website; that is why in the end the website uses the “Daily Advice” API(Advice Slip, n.d.). With the aforementioned API, every time someone visits the website, they can see an “Advice for the day”. 
+The following task on the list was the API to integrate. First, the idea was for the website to use the “Get a Random Activity” API(Bored API Documentation, n.d.) but no matter how many times the code was changed, refreshed and recommitted, it did not appear on the website; that is why in the end the website uses the “Daily Advice” API(Advice Slip, n.d.). With the aforementioned API, every time someone visits the website, they can see an advice for the day. 
 </p>
 <br>
 
